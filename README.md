@@ -1,7 +1,8 @@
 ```markdown
 # 📦 Tenzies Game (React Edition)
 
-A simple, interactive Tenzies game built with **React** and **Tailwind CSS**. Challenge yourself to match all ten dice as fast as you can!
+A simple, interactive Tenzies game built with **React** and **Tailwind CSS**. Challenge yourself to
+ match all ten dice as fast as you can!
 
 ---
 
